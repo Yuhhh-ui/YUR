@@ -11,4 +11,4 @@ streamlit==1.37.0
 tensorflow==2.17.0
 torch==2.3.0
 transformers==4.43.2
-utils==1.0.2
+utils ==1.0.2
